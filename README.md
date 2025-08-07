@@ -24,7 +24,7 @@ Welcome to my portfolio repository. Here you'll find my projects, skills, and wa
 | Project | Description | Tech Stack | Demo/Link |
 | ------- | ----------- | ---------- | --------- |
 | [Project 1](#) | Short description | Tech used | [Live](#) / [Repo](#) |
-| [Project 2](#) | Short description | Tech used | [Live](#) / [Repo](#) |
+| [Doc-gen](#) | An app to summarize the details of the workflow and commits of a public GitHub repository | Amazon Q Developer | [Live](#) / [Repo](https://github.com/DevABM/q-docgen/tree/main) |
 
 ---
 
