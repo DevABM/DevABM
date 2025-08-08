@@ -26,7 +26,7 @@ Welcome to my portfolio repository. Here you'll find my projects, skills, and wa
 | Project | Description | Tech Stack | Demo/Link |
 | ------- | ----------- | ---------- | --------- |
 | [Cloud Resume](#) | A Serverless function that fetches resume data stored in a NoSQL Database and returns it in JSON format | AWS Lambda, API Gateway, DynamoDB | [Blog](https://medium.com/towardsdev/aws-cloud-resume-api-challenge-9f99d5a4e631)/[Repo](https://github.com/DevABM/Cloud-Resume-API-Challenge/tree/main) |
-| [Doc-gen](#)| An app to summarize the details of the workflow and commits of a public GitHub repository | Amazon Q Developer | [Blog](https://dev.to/devabm/readme-read-better-automating-repo-summaries-with-amazon-q-developer-5918) / [Repo](https://github.com/DevABM/q-docgen/tree/main) |
+| [Doc-gen](#)| An app to summarize the details of the workflow and commits of a public GitHub repository | Amazon Q Developer | [Blog](https://dev.to/devabm/readme-read-better-automating-repo-summaries-with-amazon-q-developer-5918)/[Repo](https://github.com/DevABM/q-docgen/tree/main) |
 
 ---
 
