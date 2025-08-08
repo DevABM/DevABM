@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Amudha!
-<a href="https://linkedin.com/amudhabalamurugan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amudhabalamurugan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Welcome to my portfolio repository. Here you'll find my projects, skills, and ways to connect with me.
