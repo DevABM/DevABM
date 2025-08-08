@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Amudha!
+<a href="https://linkedin.com/amudhabalamurugan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 Welcome to my portfolio repository. Here you'll find my projects, skills, and ways to connect with me.
 
@@ -23,20 +25,21 @@ Welcome to my portfolio repository. Here you'll find my projects, skills, and wa
 
 | Project | Description | Tech Stack | Demo/Link |
 | ------- | ----------- | ---------- | --------- |
-| [Cloud Resume](#) | a Serverless function that fetches resume data stored in a NoSQL Database and returns it in JSON format | AWS Lambda, API Gateway, DynamoDB | [Live](#) / [Repo]((https://github.com/DevABM/Cloud-Resume-API-Challenge/tree/main)) |
-| [Doc-gen](#) | An app to summarize the details of the workflow and commits of a public GitHub repository | Amazon Q Developer | [Blog](https://dev.to/devabm/readme-read-better-automating-repo-summaries-with-amazon-q-developer-5918) / [Repo](https://github.com/DevABM/q-docgen/tree/main) |
+| [Cloud Resume](#) | a Serverless function that fetches resume data stored in a NoSQL Database and returns it in JSON format | AWS Lambda, API Gateway, DynamoDB | [Blog]/[Repo](https://github.com/DevABM/Cloud-Resume-API-Challenge/tree/main) |
+| [Doc-gen]| An app to summarize the details of the workflow and commits of a public GitHub repository | Amazon Q Developer | [Blog](https://dev.to/devabm/readme-read-better-automating-repo-summaries-with-amazon-q-developer-5918) / [Repo](https://github.com/DevABM/q-docgen/tree/main) |
 
 ---
 
-## 🏆 Achievements
+## 🏆 Certifications
+<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/-AWS_Solution_Architect_Associate-FF0000?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_Developer_Associate-0F8f11?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS_AI_Practitioner-FF6622?&style=for-the-badge&logo=Amazon-AWS&logocolor=white" />
+<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-AAbbcc?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform_Associate-4411dd?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Splunk_Core_User-F81166?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 
-- AWS Solution Architect Associate
-- AWS AI Practitioner
-- AWS Developer Associate
-- AWS Cloud Practitioner
-- Hashicorp Terraform Associate
-- Splunk Core User
-
+</div>
 ---
 
 ## 📈 GitHub Stats
